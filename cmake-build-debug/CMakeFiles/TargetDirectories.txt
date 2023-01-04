@@ -1,0 +1,3 @@
+/home/senior/-C-computational-geometry-algorithm/cmake-build-debug/CMakeFiles/_C_computational_geometry_algorithm.dir
+/home/senior/-C-computational-geometry-algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/senior/-C-computational-geometry-algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
